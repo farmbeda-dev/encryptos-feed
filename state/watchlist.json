@@ -1,0 +1,24 @@
+{
+  "watch": {
+    "JUPUSDT": {
+      "added_at": "2026-07-14 18:28:22"
+    }
+  },
+  "positions": {
+    "JUPUSDT": {
+      "entry": 0.2133,
+      "side": "long",
+      "leverage": 3.0,
+      "sl_price": 0.20690099999999997,
+      "tp_price": 0.24885000000000002,
+      "added_at": "2026-07-14 18:28:54",
+      "alertado": {
+        "sl": true,
+        "tp": false,
+        "ep": false
+      }
+    }
+  },
+  "update_offset": 177713889,
+  "last_thread_id": 2
+}

@@ -1,0 +1,26 @@
+{
+  "watch": {
+    "SXTUSDT": {
+      "added_at": "2026-07-15 11:35:05"
+    },
+    "BLUAIUSDT": {
+      "added_at": "2026-07-15 11:36:02"
+    }
+  },
+  "positions": {
+    "VANRYUSDT": {
+      "entry": 0.00565,
+      "side": "long",
+      "leverage": 3.0,
+      "sl_price": 0.005480499999999999,
+      "tp_price": 0.006591666666666667,
+      "added_at": "2026-07-15 14:04:57",
+      "alertado": {
+        "sl": true,
+        "tp": false,
+        "ep": false
+      }
+    }
+  },
+  "last_thread_id": 997
+}

@@ -1,0 +1,726 @@
+{
+ "timestamp": "2026-07-14T06:22:20.027695+00:00",
+ "source": "coinalyze_aggregated",
+ "data": {
+  "FOGOUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 63333340,
+    "update": 1784010162593
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "AUSDT_PERP.A": {
+   "open_interest": {
+    "value_aggregated": 37003306,
+    "update": 1784010197849
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "DEXEUSDT_PERP.A": {
+   "open_interest": {
+    "value_aggregated": 2437588.11,
+    "update": 1784010197912
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "BEATUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 3388396,
+    "update": 1784010199702
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "NVDAUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 17664.3,
+    "update": 1784010199743
+   },
+   "funding": {
+    "rate_aggregated": 0.002678
+   }
+  },
+  "SONICUSDT_PERP.A": {
+   "open_interest": {
+    "value_aggregated": 25947885.6,
+    "update": 1784010196329
+   },
+   "funding": {
+    "rate_aggregated": 7.4e-05
+   }
+  },
+  "EDENUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 20326356,
+    "update": 1784010199858
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "ENAUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 427393443,
+    "update": 1784010199932
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "TREEUSDT_PERP.A": {
+   "open_interest": {
+    "value_aggregated": 28548973,
+    "update": 1784010196337
+   },
+   "funding": {
+    "rate_aggregated": -0.005248
+   }
+  },
+  "WUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 303336527.8,
+    "update": 1784010199769
+   },
+   "funding": {
+    "rate_aggregated": -0.022102
+   }
+  },
+  "WUSDT_PERP.A": {
+   "open_interest": {
+    "value_aggregated": 283198257.1,
+    "update": 1784010197355
+   },
+   "funding": {
+    "rate_aggregated": -0.002757
+   }
+  },
+  "CRCLUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 46822.03,
+    "update": 1784010199633
+   },
+   "funding": {
+    "rate_aggregated": 0
+   }
+  },
+  "GOATUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 74416956,
+    "update": 1784010199955
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "ZROUSDT_PERP.A": {
+   "open_interest": {
+    "value_aggregated": 16479468.3,
+    "update": 1784010196326
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "PNUTUSDT_PERP.A": {
+   "open_interest": {
+    "value_aggregated": 74445570,
+    "update": 1784010196327
+   },
+   "funding": {
+    "rate_aggregated": -0.006368
+   }
+  },
+  "ZROUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 10749380.8,
+    "update": 1784010199937
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "ORCLUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 15155.6,
+    "update": 1784010198539
+   },
+   "funding": {
+    "rate_aggregated": 0.027397
+   }
+  },
+  "CARVUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 24895994,
+    "update": 1784010193585
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "TQQQUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 9495.14,
+    "update": 1784010199614
+   },
+   "funding": {
+    "rate_aggregated": -7.8e-05
+   }
+  },
+  "PENGUUSDT.6": {
+   "open_interest": {
+    "value_aggregated": 1820141600,
+    "update": 1784010199697
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "PROVEUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 140389,
+    "update": 1784010257498
+   },
+   "funding": {
+    "rate_aggregated": -0.07524
+   }
+  },
+  "BULLA_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 33111740,
+    "update": 1784010256134
+   },
+   "funding": {
+    "rate_aggregated": 0.1133
+   }
+  },
+  "AXTIUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 7993.650000000001,
+    "update": 1784010259245
+   },
+   "funding": {
+    "rate_aggregated": 0
+   }
+  },
+  "IRENUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 236.1887495632905,
+    "update": 1784010257797
+   },
+   "funding": {
+    "rate_aggregated": 0
+   }
+  },
+  "SUSHI_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 3177374,
+    "update": 1784010259114
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "PERP_SAHARA_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 860000,
+    "update": 1784010261510
+   },
+   "funding": {
+    "rate_aggregated": -0.002008
+   }
+  },
+  "SENT_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 16572600,
+    "update": 1784010244093
+   },
+   "funding": {
+    "rate_aggregated": -0.0349
+   }
+  },
+  "ATUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 1329030,
+    "update": 1784010259348
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "HK50_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 14.338000000000001,
+    "update": 1784010256120
+   },
+   "funding": {
+    "rate_aggregated": -0.02
+   }
+  },
+  "KOMAUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 16345469.542906875,
+    "update": 1784010257374
+   },
+   "funding": {
+    "rate_aggregated": 0.15468
+   }
+  },
+  "CRVUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 212972.89259657142,
+    "update": 1784010257444
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "BZUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 72311.31,
+    "update": 1784010259373
+   },
+   "funding": {
+    "rate_aggregated": -0.027600331587800002
+   }
+  },
+  "PERP_VANA_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 19.43,
+    "update": 1784010261681
+   },
+   "funding": {
+    "rate_aggregated": 0.001172
+   }
+  },
+  "XLF_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 46.2,
+    "update": 1784010247134
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "PERP_TOSHI_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 234233,
+    "update": 1784010261918
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "1000FLOKIUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 256741.872568161,
+    "update": 1784010257471
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "NAS100_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 46.0352,
+    "update": 1784010259096
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "ASMLUSDT_PERP.4": {
+   "open_interest": {
+    "value_aggregated": 6.23,
+    "update": 1784010257467
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "KORUUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 14154.4,
+    "update": 1784010259282
+   },
+   "funding": {
+    "rate_aggregated": 0.33617696727725
+   }
+  },
+  "PERP_ZKC_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 469,
+    "update": 1784010262029
+   },
+   "funding": {
+    "rate_aggregated": -0.000665
+   }
+  },
+  "FIDAUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 1238937,
+    "update": 1784010322306
+   },
+   "funding": {
+    "rate_aggregated": -0.032768
+   }
+  },
+  "PERP_TAO_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 492.613,
+    "update": 1784010320626
+   },
+   "funding": {
+    "rate_aggregated": 0.001972
+   }
+  },
+  "PERP_BB_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 5464,
+    "update": 1784010320278
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "GT_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 93310,
+    "update": 1784010313173
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "LABUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 22656900.000000007,
+    "update": 1784010319370
+   },
+   "funding": {
+    "rate_aggregated": 0.03890789286706
+   }
+  },
+  "RSR_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 73980400,
+    "update": 1784010292105
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "PIPPIN_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 62093400,
+    "update": 1784010214068
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "FLUX_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 696994,
+    "update": 1784010283178
+   },
+   "funding": {
+    "rate_aggregated": -0.0037
+   }
+  },
+  "PERP_EWT_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 23.43,
+    "update": 1784010320524
+   },
+   "funding": {
+    "rate_aggregated": -0.007688
+   }
+  },
+  "MEGAUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 294044.1813512949,
+    "update": 1784010322193
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "UMAUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 820933.8,
+    "update": 1784010319363
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "PERP_CETUS_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 81,
+    "update": 1784010320569
+   },
+   "funding": {
+    "rate_aggregated": 0.002532
+   }
+  },
+  "ZILUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 1196252.0812140468,
+    "update": 1784010321962
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "TQQQX_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 11651.94,
+    "update": 1784010301247
+   },
+   "funding": {
+    "rate_aggregated": 0.02
+   }
+  },
+  "PERP_KSM_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 63.3,
+    "update": 1784010320053
+   },
+   "funding": {
+    "rate_aggregated": 0.003807
+   }
+  },
+  "AVLUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 1472646.4275653332,
+    "update": 1784010322118
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "QCOMUSDT_PERP.4": {
+   "open_interest": {
+    "value_aggregated": 79.12,
+    "update": 1784010319105
+   },
+   "funding": {
+    "rate_aggregated": 0
+   }
+  },
+  "SPACE_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 33229200,
+    "update": 1784010292071
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "RED_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 713842,
+    "update": 1784010310159
+   },
+   "funding": {
+    "rate_aggregated": -0.0229
+   }
+  },
+  "AVAAI_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 150203640,
+    "update": 1784010313102
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "DEEP_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 16260800,
+    "update": 1784010334447
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "LENOVO_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 23396,
+    "update": 1784010379090
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "FILUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 13713916.200000001,
+    "update": 1784010378848
+   },
+   "funding": {
+    "rate_aggregated": 0.00098750945466
+   }
+  },
+  "AUS200_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 1.048,
+    "update": 1784010379091
+   },
+   "funding": {
+    "rate_aggregated": -0.02
+   }
+  },
+  "JASMYUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 3120527.301656051,
+    "update": 1784010380489
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "RDWUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 14947.5,
+    "update": 1784010379279
+   },
+   "funding": {
+    "rate_aggregated": 0
+   }
+  },
+  "BLESS_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 66490000,
+    "update": 1784010379167
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "PERP_THE_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 328365.6,
+    "update": 1784010382531
+   },
+   "funding": {
+    "rate_aggregated": -0.648572
+   }
+  },
+  "XLMUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 55309440,
+    "update": 1784010379162
+   },
+   "funding": {
+    "rate_aggregated": -0.00359347585679
+   }
+  },
+  "ZKUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 61876510,
+    "update": 1784010378993
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "TREEUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 156735.45848489774,
+    "update": 1784010380527
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "ONT_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 2240550,
+    "update": 1784010352087
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "NOW_USDT.Y": {
+   "open_interest": {
+    "value_aggregated": 848.88,
+    "update": 1784010379195
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "PIPPINUSDT_PERP.4": {
+   "open_interest": {
+    "value_aggregated": 3007320,
+    "update": 1784010379708
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "XAGUSDT_PERP.4": {
+   "open_interest": {
+    "value_aggregated": 13483.65,
+    "update": 1784010379618
+   },
+   "funding": {
+    "rate_aggregated": 0
+   }
+  },
+  "LYNUSDT.S": {
+   "open_interest": {
+    "value_aggregated": 1542112.7922329803,
+    "update": 1784010380574
+   },
+   "funding": {
+    "rate_aggregated": 0.01
+   }
+  },
+  "ORDERUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 5580210,
+    "update": 1784010379437
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "PERP_SONIC_USDT.W": {
+   "open_interest": {
+    "value_aggregated": 81.4,
+    "update": 1784010382087
+   },
+   "funding": {
+    "rate_aggregated": -0.000569
+   }
+  },
+  "OUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 3986080,
+    "update": 1784010379263
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  },
+  "TURBOUSDT_PERP.3": {
+   "open_interest": {
+    "value_aggregated": 670423000.0000001,
+    "update": 1784010378837
+   },
+   "funding": {
+    "rate_aggregated": 0.005
+   }
+  }
+ }
+}

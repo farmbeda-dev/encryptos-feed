@@ -1,0 +1,288 @@
+{"ts": "2026-07-11T00:03:05.611704+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.5, "ask_pct_resistance": 48.5, "bid_usd": 86958.07, "ask_usd": 82005.27}}
+{"ts": "2026-07-11T00:07:47.692324+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.3, "ask_pct_resistance": 39.7, "bid_usd": 100652.49, "ask_usd": 66301.92}}
+{"ts": "2026-07-11T00:12:56.860813+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T00:17:56.485842+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T00:22:50.300918+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.4, "ask_pct_resistance": 39.6, "bid_usd": 93639.93, "ask_usd": 61331.05}}
+{"ts": "2026-07-11T00:27:52.992785+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.4, "ask_pct_resistance": 43.6, "bid_usd": 87381.38, "ask_usd": 67580.2}}
+{"ts": "2026-07-11T00:32:49.065940+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.3, "ask_pct_resistance": 46.7, "bid_usd": 80918.09, "ask_usd": 70950.12}}
+{"ts": "2026-07-11T00:37:49.566573+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.0, "ask_pct_resistance": 40.0, "bid_usd": 99097.65, "ask_usd": 66038.03}}
+{"ts": "2026-07-11T00:42:51.374005+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.2, "ask_pct_resistance": 43.8, "bid_usd": 87043.06, "ask_usd": 67894.76}}
+{"ts": "2026-07-11T00:47:44.349991+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.7, "ask_pct_resistance": 37.3, "bid_usd": 108995.32, "ask_usd": 64752.45}}
+{"ts": "2026-07-11T00:52:52.263192+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.9, "ask_pct_resistance": 42.1, "bid_usd": 92816.31, "ask_usd": 67527.08}}
+{"ts": "2026-07-11T00:57:49.798519+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.3, "ask_pct_resistance": 41.7, "bid_usd": 90709.46, "ask_usd": 64970.38}}
+{"ts": "2026-07-11T01:02:51.289144+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T01:07:57.168195+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T01:12:53.893379+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 55.3, "ask_pct_resistance": 44.7, "bid_usd": 81777.71, "ask_usd": 66230.32}}
+{"ts": "2026-07-11T01:17:50.676586+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T01:22:47.687557+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.9, "ask_pct_resistance": 46.1, "bid_usd": 85238.38, "ask_usd": 72960.77}}
+{"ts": "2026-07-11T01:27:58.403116+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T01:32:50.465842+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.2, "ask_pct_resistance": 48.8, "bid_usd": 93932.29, "ask_usd": 89498.08}}
+{"ts": "2026-07-11T01:38:00.971208+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.9, "ask_pct_resistance": 43.1, "bid_usd": 103036.19, "ask_usd": 77918.98}}
+{"ts": "2026-07-11T01:42:51.439173+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.1, "ask_pct_resistance": 48.9, "bid_usd": 89345.7, "ask_usd": 85420.57}}
+{"ts": "2026-07-11T01:47:53.919463+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T01:52:53.947549+00:00", "futures_walls": [{"side": "ask", "price": 0.1327, "qty": 550000.0, "notional_usd": 72985.0, "dist_pct": 100.429}], "pressure": {"bid_pct_support": 54.6, "ask_pct_resistance": 45.4, "bid_usd": 93873.96, "ask_usd": 78128.2}}
+{"ts": "2026-07-11T01:57:54.560559+00:00", "futures_walls": [{"side": "ask", "price": 0.1327, "qty": 550000.0, "notional_usd": 72985.0, "dist_pct": 102.719}], "pressure": {"bid_pct_support": 56.1, "ask_pct_resistance": 43.9, "bid_usd": 118779.84, "ask_usd": 92886.52}}
+{"ts": "2026-07-11T02:03:09.739830+00:00", "futures_walls": [{"side": "ask", "price": 0.1327, "qty": 550000.0, "notional_usd": 72985.0, "dist_pct": 103.14}], "pressure": {"bid_pct_support": 63.6, "ask_pct_resistance": 36.4, "bid_usd": 117513.86, "ask_usd": 67351.47}}
+{"ts": "2026-07-11T02:08:04.568337+00:00", "futures_walls": [{"side": "ask", "price": 0.1327, "qty": 550000.0, "notional_usd": 72985.0, "dist_pct": 104.265}], "pressure": {"bid_pct_support": 59.6, "ask_pct_resistance": 40.4, "bid_usd": 113545.27, "ask_usd": 77068.56}}
+{"ts": "2026-07-11T02:12:48.920412+00:00", "futures_walls": [{"side": "ask", "price": 0.1327, "qty": 550000.0, "notional_usd": 72985.0, "dist_pct": 106.859}], "pressure": {"bid_pct_support": 60.9, "ask_pct_resistance": 39.1, "bid_usd": 114310.89, "ask_usd": 73389.1}}
+{"ts": "2026-07-11T02:18:02.012211+00:00", "futures_walls": [{"side": "ask", "price": 0.1327, "qty": 550000.0, "notional_usd": 72985.0, "dist_pct": 107.961}], "pressure": {"bid_pct_support": 56.6, "ask_pct_resistance": 43.4, "bid_usd": 110281.73, "ask_usd": 84464.61}}
+{"ts": "2026-07-11T02:22:59.018848+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T02:27:59.528377+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T02:33:01.361252+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.5, "ask_pct_resistance": 47.5, "bid_usd": 101307.94, "ask_usd": 91728.37}}
+{"ts": "2026-07-11T02:37:56.363160+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T02:42:55.164234+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.9, "ask_pct_resistance": 47.1, "bid_usd": 100096.0, "ask_usd": 89176.22}}
+{"ts": "2026-07-11T02:48:02.166214+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 54.0, "ask_pct_resistance": 46.0, "bid_usd": 102046.9, "ask_usd": 87051.25}}
+{"ts": "2026-07-11T02:52:53.854139+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 54.4, "ask_pct_resistance": 45.6, "bid_usd": 92187.71, "ask_usd": 77189.77}}
+{"ts": "2026-07-11T02:57:47.398510+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.5, "ask_pct_resistance": 49.5, "bid_usd": 92277.4, "ask_usd": 90442.01}}
+{"ts": "2026-07-11T03:02:49.013904+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.5, "ask_pct_resistance": 46.5, "bid_usd": 104829.43, "ask_usd": 90940.52}}
+{"ts": "2026-07-11T03:07:49.877882+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.0, "ask_pct_resistance": 48.0, "bid_usd": 90610.76, "ask_usd": 83506.77}}
+{"ts": "2026-07-11T03:12:45.515298+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 49.5, "ask_pct_resistance": 50.5, "bid_usd": 84099.08, "ask_usd": 85775.08}}
+{"ts": "2026-07-11T03:17:43.264295+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.7, "ask_pct_resistance": 46.3, "bid_usd": 101168.82, "ask_usd": 87177.49}}
+{"ts": "2026-07-11T03:22:46.876273+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.7, "ask_pct_resistance": 47.3, "bid_usd": 85752.55, "ask_usd": 76884.5}}
+{"ts": "2026-07-11T03:27:43.581074+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 49.9, "ask_pct_resistance": 50.1, "bid_usd": 78115.37, "ask_usd": 78559.61}}
+{"ts": "2026-07-11T03:32:52.507671+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T03:37:39.491867+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.9, "ask_pct_resistance": 49.1, "bid_usd": 85488.26, "ask_usd": 82379.51}}
+{"ts": "2026-07-11T03:42:43.589426+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 55.8, "ask_pct_resistance": 44.2, "bid_usd": 94997.99, "ask_usd": 75315.95}}
+{"ts": "2026-07-11T03:47:49.945567+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.8, "ask_pct_resistance": 49.2, "bid_usd": 79679.39, "ask_usd": 77134.76}}
+{"ts": "2026-07-11T03:52:48.168276+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.4, "ask_pct_resistance": 49.6, "bid_usd": 78598.37, "ask_usd": 77339.51}}
+{"ts": "2026-07-11T03:57:38.864694+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 46.3, "ask_pct_resistance": 53.7, "bid_usd": 72461.44, "ask_usd": 83933.17}}
+{"ts": "2026-07-11T04:02:44.872504+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 47.0, "ask_pct_resistance": 53.0, "bid_usd": 78766.42, "ask_usd": 88709.47}}
+{"ts": "2026-07-11T04:07:35.756769+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.9, "ask_pct_resistance": 46.1, "bid_usd": 87589.33, "ask_usd": 74893.57}}
+{"ts": "2026-07-11T04:12:43.882084+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 46.8, "ask_pct_resistance": 53.2, "bid_usd": 67691.28, "ask_usd": 76933.1}}
+{"ts": "2026-07-11T04:17:43.129336+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.7, "ask_pct_resistance": 48.3, "bid_usd": 83282.93, "ask_usd": 77929.53}}
+{"ts": "2026-07-11T04:22:45.005200+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 48.0, "ask_pct_resistance": 52.0, "bid_usd": 73580.22, "ask_usd": 79817.76}}
+{"ts": "2026-07-11T04:27:34.032525+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.4, "ask_pct_resistance": 46.6, "bid_usd": 86284.1, "ask_usd": 75286.97}}
+{"ts": "2026-07-11T04:32:44.414180+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.1, "ask_pct_resistance": 40.9, "bid_usd": 101123.41, "ask_usd": 70111.5}}
+{"ts": "2026-07-11T04:37:41.275920+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.7, "ask_pct_resistance": 38.3, "bid_usd": 105193.36, "ask_usd": 65255.08}}
+{"ts": "2026-07-11T04:42:54.639652+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.9, "ask_pct_resistance": 46.1, "bid_usd": 79634.92, "ask_usd": 68227.09}}
+{"ts": "2026-07-11T04:47:44.424072+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.0, "ask_pct_resistance": 48.0, "bid_usd": 73474.47, "ask_usd": 67695.14}}
+{"ts": "2026-07-11T04:52:47.041066+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.5, "ask_pct_resistance": 47.5, "bid_usd": 77831.79, "ask_usd": 70513.85}}
+{"ts": "2026-07-11T04:57:55.226521+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 54.7, "ask_pct_resistance": 45.3, "bid_usd": 81851.83, "ask_usd": 67746.15}}
+{"ts": "2026-07-11T05:02:50.768447+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.6, "ask_pct_resistance": 41.4, "bid_usd": 99408.07, "ask_usd": 70145.62}}
+{"ts": "2026-07-11T05:07:52.765741+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.1, "ask_pct_resistance": 41.9, "bid_usd": 98884.82, "ask_usd": 71176.47}}
+{"ts": "2026-07-11T05:12:47.054156+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.4, "ask_pct_resistance": 48.6, "bid_usd": 76950.92, "ask_usd": 72744.42}}
+{"ts": "2026-07-11T05:17:48.040223+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.1, "ask_pct_resistance": 42.9, "bid_usd": 90469.14, "ask_usd": 68014.31}}
+{"ts": "2026-07-11T05:22:45.147118+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.8, "ask_pct_resistance": 46.2, "bid_usd": 89623.16, "ask_usd": 76920.24}}
+{"ts": "2026-07-11T05:27:49.488691+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.9, "ask_pct_resistance": 43.1, "bid_usd": 97931.48, "ask_usd": 74240.39}}
+{"ts": "2026-07-11T05:32:46.837770+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.5, "ask_pct_resistance": 48.5, "bid_usd": 77202.83, "ask_usd": 72718.34}}
+{"ts": "2026-07-11T05:37:45.684892+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 55.0, "ask_pct_resistance": 45.0, "bid_usd": 86748.61, "ask_usd": 70881.12}}
+{"ts": "2026-07-11T05:42:46.000682+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 55.8, "ask_pct_resistance": 44.2, "bid_usd": 88214.24, "ask_usd": 69998.42}}
+{"ts": "2026-07-11T05:47:45.197094+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 54.6, "ask_pct_resistance": 45.4, "bid_usd": 84270.04, "ask_usd": 70178.6}}
+{"ts": "2026-07-11T05:52:44.305432+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.4, "ask_pct_resistance": 41.6, "bid_usd": 100725.97, "ask_usd": 71750.68}}
+{"ts": "2026-07-11T05:57:46.658660+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.9, "ask_pct_resistance": 39.1, "bid_usd": 105134.15, "ask_usd": 67461.13}}
+{"ts": "2026-07-11T06:02:58.946293+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T06:07:54.399115+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.5, "ask_pct_resistance": 40.5, "bid_usd": 101368.28, "ask_usd": 69130.66}}
+{"ts": "2026-07-11T06:12:53.278604+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.0, "ask_pct_resistance": 42.0, "bid_usd": 97572.51, "ask_usd": 70757.9}}
+{"ts": "2026-07-11T06:17:49.933626+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.2, "ask_pct_resistance": 43.8, "bid_usd": 92744.46, "ask_usd": 72208.48}}
+{"ts": "2026-07-11T06:22:40.100563+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.0, "ask_pct_resistance": 44.0, "bid_usd": 91518.38, "ask_usd": 71912.13}}
+{"ts": "2026-07-11T06:27:44.132439+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.3, "ask_pct_resistance": 41.7, "bid_usd": 96493.26, "ask_usd": 69024.23}}
+{"ts": "2026-07-11T06:32:40.832886+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.0, "ask_pct_resistance": 42.0, "bid_usd": 100438.34, "ask_usd": 72785.52}}
+{"ts": "2026-07-11T06:37:49.799823+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.6, "ask_pct_resistance": 41.4, "bid_usd": 95592.54, "ask_usd": 67669.74}}
+{"ts": "2026-07-11T06:42:52.259450+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.8, "ask_pct_resistance": 38.2, "bid_usd": 116686.6, "ask_usd": 72109.86}}
+{"ts": "2026-07-11T06:47:46.569014+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.3, "ask_pct_resistance": 40.7, "bid_usd": 107384.39, "ask_usd": 73729.79}}
+{"ts": "2026-07-11T06:52:47.406557+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.0, "ask_pct_resistance": 41.0, "bid_usd": 99663.7, "ask_usd": 69215.48}}
+{"ts": "2026-07-11T06:57:45.484711+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.2, "ask_pct_resistance": 41.8, "bid_usd": 100582.26, "ask_usd": 72347.66}}
+{"ts": "2026-07-11T07:02:49.138886+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.6, "ask_pct_resistance": 41.4, "bid_usd": 101268.79, "ask_usd": 71634.32}}
+{"ts": "2026-07-11T07:07:50.963737+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.0, "ask_pct_resistance": 41.0, "bid_usd": 103179.88, "ask_usd": 71759.21}}
+{"ts": "2026-07-11T07:12:49.250902+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.4, "ask_pct_resistance": 39.6, "bid_usd": 104078.6, "ask_usd": 68197.93}}
+{"ts": "2026-07-11T07:17:47.097616+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.6, "ask_pct_resistance": 37.4, "bid_usd": 125057.85, "ask_usd": 74673.6}}
+{"ts": "2026-07-11T07:22:45.220518+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.4, "ask_pct_resistance": 40.6, "bid_usd": 109960.0, "ask_usd": 75307.43}}
+{"ts": "2026-07-11T07:27:46.343656+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.2, "ask_pct_resistance": 46.8, "bid_usd": 107358.93, "ask_usd": 94272.64}}
+{"ts": "2026-07-11T07:32:50.641677+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 49.6, "ask_pct_resistance": 50.4, "bid_usd": 92507.13, "ask_usd": 93972.06}}
+{"ts": "2026-07-11T07:37:43.034750+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.2, "ask_pct_resistance": 49.8, "bid_usd": 90674.63, "ask_usd": 89916.41}}
+{"ts": "2026-07-11T07:42:52.294368+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 48.0, "ask_pct_resistance": 52.0, "bid_usd": 86324.65, "ask_usd": 93702.8}}
+{"ts": "2026-07-11T07:47:44.736746+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 49.6, "ask_pct_resistance": 50.4, "bid_usd": 87831.54, "ask_usd": 89113.66}}
+{"ts": "2026-07-11T07:52:49.019315+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 47.3, "ask_pct_resistance": 52.7, "bid_usd": 78376.61, "ask_usd": 87166.15}}
+{"ts": "2026-07-11T07:57:48.183492+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 49.3, "ask_pct_resistance": 50.7, "bid_usd": 86789.93, "ask_usd": 89283.22}}
+{"ts": "2026-07-11T08:02:54.980973+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T08:07:58.853110+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T08:12:54.081642+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.3, "ask_pct_resistance": 48.7, "bid_usd": 90691.44, "ask_usd": 86249.98}}
+{"ts": "2026-07-11T08:17:54.334438+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T08:22:47.501938+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.6, "ask_pct_resistance": 49.4, "bid_usd": 91216.33, "ask_usd": 88900.78}}
+{"ts": "2026-07-11T08:27:50.811044+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.8, "ask_pct_resistance": 49.2, "bid_usd": 91976.87, "ask_usd": 89165.22}}
+{"ts": "2026-07-11T08:32:37.328616+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 49.9, "ask_pct_resistance": 50.1, "bid_usd": 94646.19, "ask_usd": 94862.94}}
+{"ts": "2026-07-11T08:37:29.197810+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.7, "ask_pct_resistance": 47.3, "bid_usd": 101390.34, "ask_usd": 91032.65}}
+{"ts": "2026-07-11T08:42:26.957318+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.3, "ask_pct_resistance": 46.7, "bid_usd": 104255.9, "ask_usd": 91416.16}}
+{"ts": "2026-07-11T08:47:23.393482+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.5, "ask_pct_resistance": 46.5, "bid_usd": 108749.11, "ask_usd": 94601.13}}
+{"ts": "2026-07-11T08:52:27.876079+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.5, "ask_pct_resistance": 48.5, "bid_usd": 102308.79, "ask_usd": 96455.91}}
+{"ts": "2026-07-11T08:57:25.481009+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 51.6, "ask_pct_resistance": 48.4, "bid_usd": 95870.68, "ask_usd": 89781.42}}
+{"ts": "2026-07-11T09:02:27.480845+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.0, "ask_pct_resistance": 48.0, "bid_usd": 99748.43, "ask_usd": 91943.28}}
+{"ts": "2026-07-11T09:07:26.078833+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.7, "ask_pct_resistance": 37.3, "bid_usd": 119296.26, "ask_usd": 70876.09}}
+{"ts": "2026-07-11T09:12:22.965436+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.2, "ask_pct_resistance": 46.8, "bid_usd": 101200.4, "ask_usd": 88969.17}}
+{"ts": "2026-07-11T09:17:26.510815+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 54.0, "ask_pct_resistance": 46.0, "bid_usd": 105819.29, "ask_usd": 90130.14}}
+{"ts": "2026-07-11T09:22:27.287037+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.7, "ask_pct_resistance": 42.3, "bid_usd": 104198.74, "ask_usd": 76232.37}}
+{"ts": "2026-07-11T09:27:24.859741+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.0, "ask_pct_resistance": 47.0, "bid_usd": 98397.52, "ask_usd": 87332.7}}
+{"ts": "2026-07-11T09:32:25.076155+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.6, "ask_pct_resistance": 46.4, "bid_usd": 99147.51, "ask_usd": 85681.48}}
+{"ts": "2026-07-11T09:37:28.070281+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.5, "ask_pct_resistance": 47.5, "bid_usd": 94400.17, "ask_usd": 85530.9}}
+{"ts": "2026-07-11T09:42:27.333112+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 48.7, "ask_pct_resistance": 51.3, "bid_usd": 82485.91, "ask_usd": 86913.56}}
+{"ts": "2026-07-11T09:47:29.407291+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.4, "ask_pct_resistance": 42.6, "bid_usd": 116895.89, "ask_usd": 86839.48}}
+{"ts": "2026-07-11T09:52:28.928415+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 53.4, "ask_pct_resistance": 46.6, "bid_usd": 113396.48, "ask_usd": 99136.28}}
+{"ts": "2026-07-11T09:57:37.339292+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.5, "ask_pct_resistance": 39.5, "bid_usd": 132750.58, "ask_usd": 86621.67}}
+{"ts": "2026-07-11T10:02:34.198428+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.3, "ask_pct_resistance": 43.7, "bid_usd": 110257.18, "ask_usd": 85527.91}}
+{"ts": "2026-07-11T10:07:43.152688+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.0, "ask_pct_resistance": 43.0, "bid_usd": 108909.06, "ask_usd": 82092.96}}
+{"ts": "2026-07-11T10:12:41.510813+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.7, "ask_pct_resistance": 49.3, "bid_usd": 89656.65, "ask_usd": 87278.42}}
+{"ts": "2026-07-11T10:17:39.672460+00:00", "futures_walls": [{"side": "bid", "price": 0.0566, "qty": 1014480.0, "notional_usd": 57419.57, "dist_pct": -9.83}], "pressure": {"bid_pct_support": 54.5, "ask_pct_resistance": 45.5, "bid_usd": 84358.59, "ask_usd": 70381.75}}
+{"ts": "2026-07-11T10:22:48.964136+00:00", "futures_walls": [{"side": "bid", "price": 0.0566, "qty": 1014480.0, "notional_usd": 57419.57, "dist_pct": -9.741}], "pressure": {"bid_pct_support": 62.0, "ask_pct_resistance": 38.0, "bid_usd": 109603.77, "ask_usd": 67188.38}}
+{"ts": "2026-07-11T10:27:53.577421+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.0, "ask_pct_resistance": 36.0, "bid_usd": 108527.96, "ask_usd": 61101.06}}
+{"ts": "2026-07-11T10:32:46.139065+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.5, "ask_pct_resistance": 35.5, "bid_usd": 106544.13, "ask_usd": 58684.88}}
+{"ts": "2026-07-11T10:37:50.654069+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.0, "ask_pct_resistance": 35.0, "bid_usd": 110094.22, "ask_usd": 59291.48}}
+{"ts": "2026-07-11T10:42:48.256772+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 66.9, "ask_pct_resistance": 33.1, "bid_usd": 122113.06, "ask_usd": 60468.7}}
+{"ts": "2026-07-11T10:47:53.335882+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T10:52:49.876286+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 69.0, "ask_pct_resistance": 31.0, "bid_usd": 141453.35, "ask_usd": 63583.2}}
+{"ts": "2026-07-11T10:57:46.493485+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.7, "ask_pct_resistance": 35.3, "bid_usd": 122219.83, "ask_usd": 66800.15}}
+{"ts": "2026-07-11T11:02:54.710395+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T11:07:54.191064+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.4, "ask_pct_resistance": 38.6, "bid_usd": 108806.18, "ask_usd": 68446.23}}
+{"ts": "2026-07-11T11:12:51.178028+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.2, "ask_pct_resistance": 35.8, "bid_usd": 122373.4, "ask_usd": 68150.55}}
+{"ts": "2026-07-11T11:17:47.656362+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.0, "ask_pct_resistance": 36.0, "bid_usd": 121490.07, "ask_usd": 68282.71}}
+{"ts": "2026-07-11T11:22:52.334884+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.8, "ask_pct_resistance": 38.2, "bid_usd": 108822.42, "ask_usd": 67258.26}}
+{"ts": "2026-07-11T11:27:56.766025+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T11:32:51.422919+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.0, "ask_pct_resistance": 37.0, "bid_usd": 111044.97, "ask_usd": 65166.02}}
+{"ts": "2026-07-11T11:37:46.371293+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.9, "ask_pct_resistance": 34.1, "bid_usd": 124108.75, "ask_usd": 64348.93}}
+{"ts": "2026-07-11T11:42:49.738512+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.8, "ask_pct_resistance": 36.2, "bid_usd": 112071.56, "ask_usd": 63554.88}}
+{"ts": "2026-07-11T11:47:57.959981+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T11:52:55.255373+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T11:57:52.380034+00:00", "futures_walls": [{"side": "bid", "price": 0.06242, "qty": 806902.0, "notional_usd": 50366.82, "dist_pct": -0.149}], "pressure": {"bid_pct_support": 70.7, "ask_pct_resistance": 29.3, "bid_usd": 158429.25, "ask_usd": 65687.93}}
+{"ts": "2026-07-11T12:02:47.469005+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.8, "ask_pct_resistance": 34.2, "bid_usd": 102978.37, "ask_usd": 53596.65}}
+{"ts": "2026-07-11T12:07:53.745852+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 71.7, "ask_pct_resistance": 28.3, "bid_usd": 127792.15, "ask_usd": 50536.71}}
+{"ts": "2026-07-11T12:12:51.045012+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 69.4, "ask_pct_resistance": 30.6, "bid_usd": 115241.75, "ask_usd": 50814.91}}
+{"ts": "2026-07-11T12:17:50.519860+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 70.9, "ask_pct_resistance": 29.1, "bid_usd": 132492.46, "ask_usd": 54310.83}}
+{"ts": "2026-07-11T12:22:53.761724+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 68.5, "ask_pct_resistance": 31.5, "bid_usd": 113710.45, "ask_usd": 52249.93}}
+{"ts": "2026-07-11T12:27:57.894838+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T12:32:45.870709+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 67.4, "ask_pct_resistance": 32.6, "bid_usd": 107306.67, "ask_usd": 51962.15}}
+{"ts": "2026-07-11T12:37:49.920304+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 69.4, "ask_pct_resistance": 30.6, "bid_usd": 121069.02, "ask_usd": 53430.27}}
+{"ts": "2026-07-11T12:42:53.490066+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 72.5, "ask_pct_resistance": 27.5, "bid_usd": 123016.7, "ask_usd": 46735.68}}
+{"ts": "2026-07-11T12:47:46.658617+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 68.5, "ask_pct_resistance": 31.5, "bid_usd": 109729.63, "ask_usd": 50439.09}}
+{"ts": "2026-07-11T12:52:46.768188+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 68.0, "ask_pct_resistance": 32.0, "bid_usd": 111346.64, "ask_usd": 52396.02}}
+{"ts": "2026-07-11T12:57:47.882635+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 70.7, "ask_pct_resistance": 29.3, "bid_usd": 124227.69, "ask_usd": 51462.92}}
+{"ts": "2026-07-11T13:02:59.664296+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T13:07:55.487447+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.6, "ask_pct_resistance": 38.4, "bid_usd": 105902.86, "ask_usd": 66124.45}}
+{"ts": "2026-07-11T13:12:55.967871+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T13:17:52.493200+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T13:22:59.050256+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T13:27:53.657893+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.8, "ask_pct_resistance": 36.2, "bid_usd": 107237.59, "ask_usd": 60756.57}}
+{"ts": "2026-07-11T13:32:57.432784+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T13:38:07.805589+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.2, "ask_pct_resistance": 36.8, "bid_usd": 119019.72, "ask_usd": 69212.12}}
+{"ts": "2026-07-11T13:42:51.825792+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.9, "ask_pct_resistance": 40.1, "bid_usd": 105204.84, "ask_usd": 70558.96}}
+{"ts": "2026-07-11T13:47:52.098057+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.6, "ask_pct_resistance": 37.4, "bid_usd": 113303.57, "ask_usd": 67737.2}}
+{"ts": "2026-07-11T13:52:56.425458+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T13:57:44.877518+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.7, "ask_pct_resistance": 42.3, "bid_usd": 93924.42, "ask_usd": 68770.09}}
+{"ts": "2026-07-11T14:02:47.149982+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.0, "ask_pct_resistance": 42.0, "bid_usd": 93513.11, "ask_usd": 67665.54}}
+{"ts": "2026-07-11T14:07:43.975469+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.1, "ask_pct_resistance": 43.9, "bid_usd": 83771.01, "ask_usd": 65635.81}}
+{"ts": "2026-07-11T14:12:34.760069+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.2, "ask_pct_resistance": 42.8, "bid_usd": 85673.98, "ask_usd": 64231.58}}
+{"ts": "2026-07-11T14:17:30.932376+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.0, "ask_pct_resistance": 43.0, "bid_usd": 94051.78, "ask_usd": 70821.61}}
+{"ts": "2026-07-11T14:22:34.373577+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 55.6, "ask_pct_resistance": 44.4, "bid_usd": 82209.23, "ask_usd": 65601.33}}
+{"ts": "2026-07-11T14:27:29.521481+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.4, "ask_pct_resistance": 40.6, "bid_usd": 89683.23, "ask_usd": 61394.47}}
+{"ts": "2026-07-11T14:32:35.393345+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.3, "ask_pct_resistance": 39.7, "bid_usd": 96017.1, "ask_usd": 63188.17}}
+{"ts": "2026-07-11T14:37:42.969306+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.5, "ask_pct_resistance": 43.5, "bid_usd": 84793.94, "ask_usd": 65412.21}}
+{"ts": "2026-07-11T14:42:42.153181+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 55.9, "ask_pct_resistance": 44.1, "bid_usd": 88565.88, "ask_usd": 69961.92}}
+{"ts": "2026-07-11T14:47:36.558334+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.5, "ask_pct_resistance": 43.5, "bid_usd": 92388.01, "ask_usd": 71141.33}}
+{"ts": "2026-07-11T14:52:37.806435+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.5, "ask_pct_resistance": 43.5, "bid_usd": 91535.18, "ask_usd": 70558.19}}
+{"ts": "2026-07-11T14:57:45.708786+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.3, "ask_pct_resistance": 43.7, "bid_usd": 96399.23, "ask_usd": 74880.6}}
+{"ts": "2026-07-11T15:02:46.512183+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 52.5, "ask_pct_resistance": 47.5, "bid_usd": 84113.88, "ask_usd": 76129.95}}
+{"ts": "2026-07-11T15:07:42.418283+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.7, "ask_pct_resistance": 43.3, "bid_usd": 89755.71, "ask_usd": 68521.49}}
+{"ts": "2026-07-11T15:12:53.174190+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.8, "ask_pct_resistance": 42.2, "bid_usd": 89304.62, "ask_usd": 65196.77}}
+{"ts": "2026-07-11T15:18:07.977255+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.6, "ask_pct_resistance": 42.4, "bid_usd": 94011.54, "ask_usd": 69223.74}}
+{"ts": "2026-07-11T15:23:05.276020+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.0, "ask_pct_resistance": 44.0, "bid_usd": 89033.96, "ask_usd": 69829.78}}
+{"ts": "2026-07-11T15:27:55.093101+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 55.3, "ask_pct_resistance": 44.7, "bid_usd": 87730.58, "ask_usd": 70829.83}}
+{"ts": "2026-07-11T15:32:56.531920+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T15:37:58.425917+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T15:42:59.248045+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T15:47:50.331253+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 50.7, "ask_pct_resistance": 49.3, "bid_usd": 104367.38, "ask_usd": 101321.03}}
+{"ts": "2026-07-11T15:53:01.764648+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 54.7, "ask_pct_resistance": 45.3, "bid_usd": 112227.98, "ask_usd": 93128.44}}
+{"ts": "2026-07-11T15:57:57.237926+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T16:03:10.322554+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.0, "ask_pct_resistance": 44.0, "bid_usd": 103621.4, "ask_usd": 81540.71}}
+{"ts": "2026-07-11T16:08:14.724423+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 54.2, "ask_pct_resistance": 45.8, "bid_usd": 94041.62, "ask_usd": 79319.19}}
+{"ts": "2026-07-11T16:13:14.475082+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 57.8, "ask_pct_resistance": 42.2, "bid_usd": 98134.59, "ask_usd": 71558.67}}
+{"ts": "2026-07-11T16:18:04.367062+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.2, "ask_pct_resistance": 37.8, "bid_usd": 106274.49, "ask_usd": 64528.15}}
+{"ts": "2026-07-11T16:23:02.887820+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 66.8, "ask_pct_resistance": 33.2, "bid_usd": 106574.05, "ask_usd": 52951.66}}
+{"ts": "2026-07-11T16:27:51.664030+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 66.1, "ask_pct_resistance": 33.9, "bid_usd": 109028.61, "ask_usd": 56013.52}}
+{"ts": "2026-07-11T16:33:01.775798+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 68.9, "ask_pct_resistance": 31.1, "bid_usd": 118382.26, "ask_usd": 53462.87}}
+{"ts": "2026-07-11T16:37:55.137423+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T16:42:47.197996+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 55.1, "ask_pct_resistance": 44.9, "bid_usd": 72594.18, "ask_usd": 59142.71}}
+{"ts": "2026-07-11T16:47:38.449739+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.1, "ask_pct_resistance": 39.9, "bid_usd": 99808.38, "ask_usd": 66400.14}}
+{"ts": "2026-07-11T16:52:49.733787+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.8, "ask_pct_resistance": 34.2, "bid_usd": 105754.91, "ask_usd": 54964.85}}
+{"ts": "2026-07-11T16:57:59.650364+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T17:02:55.623699+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T17:08:11.833489+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.8, "ask_pct_resistance": 38.2, "bid_usd": 87258.81, "ask_usd": 53884.13}}
+{"ts": "2026-07-11T17:13:09.823359+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.0, "ask_pct_resistance": 38.0, "bid_usd": 83770.28, "ask_usd": 51372.35}}
+{"ts": "2026-07-11T17:18:09.476657+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.6, "ask_pct_resistance": 40.4, "bid_usd": 85223.12, "ask_usd": 57821.47}}
+{"ts": "2026-07-11T17:22:54.706470+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.8, "ask_pct_resistance": 36.2, "bid_usd": 95236.45, "ask_usd": 54078.96}}
+{"ts": "2026-07-11T17:27:55.006166+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T17:32:50.908643+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.8, "ask_pct_resistance": 36.2, "bid_usd": 90535.18, "ask_usd": 51445.15}}
+{"ts": "2026-07-11T17:37:41.313416+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.5, "ask_pct_resistance": 37.5, "bid_usd": 87218.9, "ask_usd": 52323.17}}
+{"ts": "2026-07-11T17:42:38.343219+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 67.1, "ask_pct_resistance": 32.9, "bid_usd": 107001.49, "ask_usd": 52407.88}}
+{"ts": "2026-07-11T17:47:34.925822+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.4, "ask_pct_resistance": 34.6, "bid_usd": 102370.14, "ask_usd": 54191.16}}
+{"ts": "2026-07-11T17:52:37.899657+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.3, "ask_pct_resistance": 35.7, "bid_usd": 96063.31, "ask_usd": 53302.24}}
+{"ts": "2026-07-11T17:57:31.458434+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.6, "ask_pct_resistance": 36.4, "bid_usd": 91854.33, "ask_usd": 52592.86}}
+{"ts": "2026-07-11T18:02:35.002592+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.8, "ask_pct_resistance": 37.2, "bid_usd": 84553.04, "ask_usd": 50157.91}}
+{"ts": "2026-07-11T18:07:47.260636+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.0, "ask_pct_resistance": 40.0, "bid_usd": 79397.63, "ask_usd": 52892.35}}
+{"ts": "2026-07-11T18:13:00.002629+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.2, "ask_pct_resistance": 38.8, "bid_usd": 86041.03, "ask_usd": 54585.04}}
+{"ts": "2026-07-11T18:17:47.658818+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.9, "ask_pct_resistance": 35.1, "bid_usd": 98163.74, "ask_usd": 53144.13}}
+{"ts": "2026-07-11T18:23:03.027804+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 67.1, "ask_pct_resistance": 32.9, "bid_usd": 108254.16, "ask_usd": 53019.41}}
+{"ts": "2026-07-11T18:28:06.881690+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.7, "ask_pct_resistance": 38.3, "bid_usd": 84288.83, "ask_usd": 52421.18}}
+{"ts": "2026-07-11T18:33:04.252641+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.6, "ask_pct_resistance": 36.4, "bid_usd": 86937.44, "ask_usd": 49857.57}}
+{"ts": "2026-07-11T18:37:54.036531+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.2, "ask_pct_resistance": 36.8, "bid_usd": 87342.93, "ask_usd": 50792.09}}
+{"ts": "2026-07-11T18:43:06.044661+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.2, "ask_pct_resistance": 38.8, "bid_usd": 87380.8, "ask_usd": 55353.82}}
+{"ts": "2026-07-11T18:48:04.942883+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 66.5, "ask_pct_resistance": 33.5, "bid_usd": 106560.33, "ask_usd": 53737.69}}
+{"ts": "2026-07-11T18:53:05.853169+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.6, "ask_pct_resistance": 38.4, "bid_usd": 82914.06, "ask_usd": 51702.94}}
+{"ts": "2026-07-11T18:58:10.661589+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.3, "ask_pct_resistance": 38.7, "bid_usd": 82731.49, "ask_usd": 52334.55}}
+{"ts": "2026-07-11T19:03:08.507271+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.6, "ask_pct_resistance": 35.4, "bid_usd": 97820.92, "ask_usd": 53607.32}}
+{"ts": "2026-07-11T19:07:56.388059+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T19:12:57.440637+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T19:17:56.217639+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T19:22:48.783397+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.8, "ask_pct_resistance": 39.2, "bid_usd": 83840.99, "ask_usd": 54055.01}}
+{"ts": "2026-07-11T19:27:55.670027+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T19:32:55.378000+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T19:37:50.423581+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.9, "ask_pct_resistance": 34.1, "bid_usd": 109777.6, "ask_usd": 56910.21}}
+{"ts": "2026-07-11T19:42:54.136882+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.3, "ask_pct_resistance": 35.7, "bid_usd": 98335.1, "ask_usd": 54658.56}}
+{"ts": "2026-07-11T19:47:43.827672+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.0, "ask_pct_resistance": 35.0, "bid_usd": 107273.42, "ask_usd": 57654.95}}
+{"ts": "2026-07-11T19:52:52.224824+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.3, "ask_pct_resistance": 38.7, "bid_usd": 89057.06, "ask_usd": 56256.39}}
+{"ts": "2026-07-11T19:57:57.711256+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T20:02:46.238608+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 66.0, "ask_pct_resistance": 34.0, "bid_usd": 94081.7, "ask_usd": 48434.76}}
+{"ts": "2026-07-11T20:07:58.098780+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T20:12:51.411688+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.3, "ask_pct_resistance": 35.7, "bid_usd": 96525.8, "ask_usd": 53594.0}}
+{"ts": "2026-07-11T20:17:53.194995+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T20:22:50.088377+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.0, "ask_pct_resistance": 37.0, "bid_usd": 94578.96, "ask_usd": 55487.75}}
+{"ts": "2026-07-11T20:27:40.515185+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.9, "ask_pct_resistance": 37.1, "bid_usd": 100278.15, "ask_usd": 59192.78}}
+{"ts": "2026-07-11T20:32:43.785540+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.8, "ask_pct_resistance": 37.2, "bid_usd": 90718.71, "ask_usd": 53835.81}}
+{"ts": "2026-07-11T20:37:47.702687+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.9, "ask_pct_resistance": 40.1, "bid_usd": 91101.06, "ask_usd": 61036.61}}
+{"ts": "2026-07-11T20:42:47.306330+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.5, "ask_pct_resistance": 40.5, "bid_usd": 89624.1, "ask_usd": 60930.15}}
+{"ts": "2026-07-11T20:47:49.000636+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.5, "ask_pct_resistance": 38.5, "bid_usd": 92083.26, "ask_usd": 57719.3}}
+{"ts": "2026-07-11T20:52:47.837876+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.6, "ask_pct_resistance": 37.4, "bid_usd": 98380.3, "ask_usd": 58856.9}}
+{"ts": "2026-07-11T20:57:43.354695+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.1, "ask_pct_resistance": 39.9, "bid_usd": 89676.96, "ask_usd": 59513.44}}
+{"ts": "2026-07-11T21:02:51.677874+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T21:07:42.349399+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.6, "ask_pct_resistance": 34.4, "bid_usd": 104516.13, "ask_usd": 54790.42}}
+{"ts": "2026-07-11T21:12:53.888096+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 65.5, "ask_pct_resistance": 34.5, "bid_usd": 109246.24, "ask_usd": 57565.18}}
+{"ts": "2026-07-11T21:17:51.394872+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T21:22:49.204816+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.4, "ask_pct_resistance": 37.6, "bid_usd": 98271.38, "ask_usd": 59160.73}}
+{"ts": "2026-07-11T21:27:50.145063+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.4, "ask_pct_resistance": 37.6, "bid_usd": 98984.92, "ask_usd": 59553.23}}
+{"ts": "2026-07-11T21:32:47.493673+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.5, "ask_pct_resistance": 37.5, "bid_usd": 91304.65, "ask_usd": 54881.78}}
+{"ts": "2026-07-11T21:37:45.971203+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.8, "ask_pct_resistance": 35.2, "bid_usd": 96354.03, "ask_usd": 52312.4}}
+{"ts": "2026-07-11T21:42:48.022005+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.3, "ask_pct_resistance": 36.7, "bid_usd": 97615.62, "ask_usd": 56652.96}}
+{"ts": "2026-07-11T21:47:45.894931+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.1, "ask_pct_resistance": 36.9, "bid_usd": 88290.78, "ask_usd": 51595.9}}
+{"ts": "2026-07-11T21:52:49.086039+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.0, "ask_pct_resistance": 37.0, "bid_usd": 86027.09, "ask_usd": 50616.73}}
+{"ts": "2026-07-11T21:57:41.202663+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.1, "ask_pct_resistance": 36.9, "bid_usd": 84358.84, "ask_usd": 49244.04}}
+{"ts": "2026-07-11T22:02:47.827870+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.9, "ask_pct_resistance": 36.1, "bid_usd": 93090.44, "ask_usd": 52591.48}}
+{"ts": "2026-07-11T22:07:56.577643+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T22:12:54.671823+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.9, "ask_pct_resistance": 41.1, "bid_usd": 74583.63, "ask_usd": 51969.21}}
+{"ts": "2026-07-11T22:17:46.264191+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.7, "ask_pct_resistance": 39.3, "bid_usd": 87892.27, "ask_usd": 56922.39}}
+{"ts": "2026-07-11T22:22:44.892653+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.0, "ask_pct_resistance": 40.0, "bid_usd": 91145.29, "ask_usd": 60786.9}}
+{"ts": "2026-07-11T22:27:43.983557+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.9, "ask_pct_resistance": 36.1, "bid_usd": 92049.09, "ask_usd": 52051.51}}
+{"ts": "2026-07-11T22:32:50.611433+00:00", "futures_walls": [], "pressure": null}
+{"ts": "2026-07-11T22:37:52.434504+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 62.1, "ask_pct_resistance": 37.9, "bid_usd": 89410.96, "ask_usd": 54521.77}}
+{"ts": "2026-07-11T22:42:46.702092+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.7, "ask_pct_resistance": 38.3, "bid_usd": 89638.29, "ask_usd": 55564.97}}
+{"ts": "2026-07-11T22:47:46.045618+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.9, "ask_pct_resistance": 36.1, "bid_usd": 87592.75, "ask_usd": 49490.21}}
+{"ts": "2026-07-11T22:52:46.106759+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.4, "ask_pct_resistance": 36.6, "bid_usd": 93347.71, "ask_usd": 53948.54}}
+{"ts": "2026-07-11T22:57:46.397524+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.6, "ask_pct_resistance": 36.4, "bid_usd": 103971.49, "ask_usd": 59490.92}}
+{"ts": "2026-07-11T23:02:50.631030+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 64.5, "ask_pct_resistance": 35.5, "bid_usd": 108168.19, "ask_usd": 59618.99}}
+{"ts": "2026-07-11T23:07:52.332746+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 60.5, "ask_pct_resistance": 39.5, "bid_usd": 86428.73, "ask_usd": 56487.18}}
+{"ts": "2026-07-11T23:12:43.045817+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.6, "ask_pct_resistance": 40.4, "bid_usd": 89209.57, "ask_usd": 60547.52}}
+{"ts": "2026-07-11T23:17:46.584547+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 61.5, "ask_pct_resistance": 38.5, "bid_usd": 85623.1, "ask_usd": 53490.65}}
+{"ts": "2026-07-11T23:22:45.881789+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 63.2, "ask_pct_resistance": 36.8, "bid_usd": 92125.86, "ask_usd": 53717.06}}
+{"ts": "2026-07-11T23:27:48.228065+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.6, "ask_pct_resistance": 41.4, "bid_usd": 93071.77, "ask_usd": 65645.22}}
+{"ts": "2026-07-11T23:32:48.219204+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 56.0, "ask_pct_resistance": 44.0, "bid_usd": 90090.41, "ask_usd": 70704.93}}
+{"ts": "2026-07-11T23:37:47.751031+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.1, "ask_pct_resistance": 41.9, "bid_usd": 94690.02, "ask_usd": 68275.87}}
+{"ts": "2026-07-11T23:42:44.186420+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 54.8, "ask_pct_resistance": 45.2, "bid_usd": 85653.22, "ask_usd": 70637.86}}
+{"ts": "2026-07-11T23:47:50.345759+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.1, "ask_pct_resistance": 41.9, "bid_usd": 90737.57, "ask_usd": 65474.22}}
+{"ts": "2026-07-11T23:52:50.761877+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 59.4, "ask_pct_resistance": 40.6, "bid_usd": 85109.7, "ask_usd": 58084.11}}
+{"ts": "2026-07-11T23:57:47.343002+00:00", "futures_walls": [], "pressure": {"bid_pct_support": 58.7, "ask_pct_resistance": 41.3, "bid_usd": 93230.36, "ask_usd": 65587.24}}

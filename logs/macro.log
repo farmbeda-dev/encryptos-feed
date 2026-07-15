@@ -1,0 +1,1543 @@
+{
+  "timestamp": "2026-07-14T06:00:04.268595+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.17,
+      "variacao_pct": -0.11,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.16,
+      "variacao_pct": 14.17,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T06:30:03.346390+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.22,
+      "variacao_pct": -0.06,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.16,
+      "variacao_pct": 14.17,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T07:00:03.981739+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.24,
+      "variacao_pct": -0.04,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.16,
+      "variacao_pct": 0.0,
+      "tendencia": "estavel"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T07:30:04.226140+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.22,
+      "variacao_pct": -0.06,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.21,
+      "variacao_pct": 0.29,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T08:00:06.192499+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.14,
+      "variacao_pct": -0.14,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.38,
+      "variacao_pct": 1.28,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T08:30:04.185011+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.15,
+      "variacao_pct": -0.13,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.35,
+      "variacao_pct": 1.11,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T09:00:05.890848+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.09,
+      "variacao_pct": -0.19,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.29,
+      "variacao_pct": 0.76,
+      "tendencia": "subindo"
+    }
+  }
+}
+-bash: */30: No such file or directory
+root@segundo-cerebro:~#: command not found
+root@segundo-cerebro:~#: command not found
+{
+  "timestamp": "2026-07-14T09:30:03.078639+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.08,
+      "variacao_pct": -0.19,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.26,
+      "variacao_pct": 0.58,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T10:00:03.878855+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.07,
+      "variacao_pct": -0.21,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.3,
+      "variacao_pct": 0.82,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T10:30:05.871359+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.1,
+      "variacao_pct": -0.18,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.31,
+      "variacao_pct": 0.87,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T11:00:03.773540+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.13,
+      "variacao_pct": -0.15,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.32,
+      "variacao_pct": 0.93,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T11:30:03.994733+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.14,
+      "variacao_pct": -0.13,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.39,
+      "variacao_pct": 1.34,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T12:00:03.641007+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.06,
+      "variacao_pct": -0.22,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.39,
+      "variacao_pct": 1.34,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T12:30:03.703756+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.05,
+      "variacao_pct": -0.22,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 17.51,
+      "variacao_pct": 2.04,
+      "tendencia": "subindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T13:00:03.795889+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.67,
+      "variacao_pct": -0.6,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7515.34,
+      "variacao_pct": -0.79,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 16.69,
+      "variacao_pct": -2.74,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T13:30:04.151358+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.73,
+      "variacao_pct": -0.54,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7536.7,
+      "variacao_pct": 0.28,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.77,
+      "variacao_pct": -2.27,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T14:00:04.443107+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.7,
+      "variacao_pct": -0.57,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7539.77,
+      "variacao_pct": 0.33,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.53,
+      "variacao_pct": -3.67,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T14:30:03.490759+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.68,
+      "variacao_pct": -0.6,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7534.09,
+      "variacao_pct": 0.25,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.6,
+      "variacao_pct": -3.26,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T15:00:04.125051+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.72,
+      "variacao_pct": -0.55,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.71,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.48,
+      "variacao_pct": -3.96,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T15:30:03.720856+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.74,
+      "variacao_pct": -0.54,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7552.89,
+      "variacao_pct": 0.5,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.3,
+      "variacao_pct": -5.01,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T16:00:03.682996+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.85,
+      "variacao_pct": -0.43,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7536.9,
+      "variacao_pct": 0.29,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T16:30:03.780970+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.9,
+      "variacao_pct": -0.37,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7534.24,
+      "variacao_pct": 0.25,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.64,
+      "variacao_pct": -3.03,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T17:00:03.808735+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.87,
+      "variacao_pct": -0.41,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7544.75,
+      "variacao_pct": 0.39,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T17:30:05.644576+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.96,
+      "variacao_pct": -0.32,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7550.11,
+      "variacao_pct": 0.46,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.45,
+      "variacao_pct": -4.14,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T18:00:04.650074+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.89,
+      "variacao_pct": -0.38,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7548.95,
+      "variacao_pct": 0.45,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.48,
+      "variacao_pct": -3.96,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T18:30:03.473641+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.91,
+      "variacao_pct": -0.37,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7551.28,
+      "variacao_pct": 0.48,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.37,
+      "variacao_pct": -4.6,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T19:00:03.377304+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.95,
+      "variacao_pct": -0.32,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7548.16,
+      "variacao_pct": 0.44,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.44,
+      "variacao_pct": -4.2,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T19:30:04.006059+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.9,
+      "variacao_pct": -0.37,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7544.72,
+      "variacao_pct": 0.39,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.42,
+      "variacao_pct": -4.31,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T20:00:04.690488+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.91,
+      "variacao_pct": -0.36,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7544.38,
+      "variacao_pct": 0.39,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.41,
+      "variacao_pct": -4.37,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T20:30:04.278000+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.94,
+      "variacao_pct": -0.33,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T21:00:03.936926+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.93,
+      "variacao_pct": -0.34,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T21:30:07.135116+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.93,
+      "variacao_pct": -0.35,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T22:00:03.916161+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.94,
+      "variacao_pct": -0.34,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T22:30:07.025394+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.94,
+      "variacao_pct": -0.33,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T23:00:03.564474+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.94,
+      "variacao_pct": -0.33,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-14T23:30:03.962861+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.94,
+      "variacao_pct": -0.33,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T00:00:03.781477+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.89,
+      "variacao_pct": -0.38,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T00:30:04.504796+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.88,
+      "variacao_pct": -0.39,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T01:00:03.309431+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.86,
+      "variacao_pct": -0.41,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T01:30:04.023887+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.79,
+      "variacao_pct": -0.48,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T02:00:03.965568+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.82,
+      "variacao_pct": -0.45,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T02:30:03.612408+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.82,
+      "variacao_pct": -0.45,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T03:00:04.417374+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.76,
+      "variacao_pct": -0.51,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T03:30:04.208260+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.83,
+      "variacao_pct": -0.44,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T04:00:04.433423+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.94,
+      "variacao_pct": 0.0,
+      "tendencia": "estavel"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T04:30:04.095417+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.8,
+      "variacao_pct": -0.14,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T05:00:03.665498+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.8,
+      "variacao_pct": -0.14,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T05:30:04.237704+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.81,
+      "variacao_pct": -0.13,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T06:00:03.905375+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.77,
+      "variacao_pct": -0.17,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T06:30:03.814570+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.76,
+      "variacao_pct": -0.18,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": -3.85,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T07:00:04.656059+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.81,
+      "variacao_pct": -0.12,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.5,
+      "variacao_pct": 0.0,
+      "tendencia": "estavel"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T07:30:04.009167+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.87,
+      "variacao_pct": -0.07,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.2,
+      "variacao_pct": -1.82,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T08:00:03.865383+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.9,
+      "variacao_pct": -0.04,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.31,
+      "variacao_pct": -1.15,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T08:30:04.649079+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.92,
+      "variacao_pct": -0.02,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.33,
+      "variacao_pct": -1.03,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T09:00:04.375783+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.92,
+      "variacao_pct": -0.02,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.26,
+      "variacao_pct": -1.45,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T09:30:05.711526+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.93,
+      "variacao_pct": -0.01,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.2,
+      "variacao_pct": -1.82,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T10:00:04.249388+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.95,
+      "variacao_pct": 0.01,
+      "tendencia": "subindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.23,
+      "variacao_pct": -1.64,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T10:30:04.746785+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.99,
+      "variacao_pct": 0.05,
+      "tendencia": "subindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.28,
+      "variacao_pct": -1.33,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T11:00:03.972778+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.0,
+      "variacao_pct": 0.06,
+      "tendencia": "subindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.38,
+      "variacao_pct": -0.73,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T11:30:04.845665+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.97,
+      "variacao_pct": 0.03,
+      "tendencia": "subindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.38,
+      "variacao_pct": -0.73,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T12:00:04.622475+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.98,
+      "variacao_pct": 0.04,
+      "tendencia": "subindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.33,
+      "variacao_pct": -1.03,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T12:30:04.349449+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 101.02,
+      "variacao_pct": 0.08,
+      "tendencia": "subindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.41,
+      "variacao_pct": -0.55,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T13:00:04.126531+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.86,
+      "variacao_pct": -0.08,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7543.59,
+      "variacao_pct": 0.38,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.16,
+      "variacao_pct": -2.06,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T13:30:04.699731+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.81,
+      "variacao_pct": -0.13,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7574.73,
+      "variacao_pct": 0.41,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.18,
+      "variacao_pct": -1.94,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T14:00:05.734206+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.83,
+      "variacao_pct": -0.11,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7573.17,
+      "variacao_pct": 0.39,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.14,
+      "variacao_pct": -2.18,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T14:30:09.334354+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.78,
+      "variacao_pct": -0.16,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7571.04,
+      "variacao_pct": 0.36,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 15.99,
+      "variacao_pct": -3.09,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T15:00:05.685349+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.72,
+      "variacao_pct": -0.22,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7562.16,
+      "variacao_pct": 0.25,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.24,
+      "variacao_pct": -1.58,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T15:30:04.800883+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.74,
+      "variacao_pct": -0.2,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7561.58,
+      "variacao_pct": 0.24,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.23,
+      "variacao_pct": -1.64,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T16:00:11.472576+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.73,
+      "variacao_pct": -0.21,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7552.32,
+      "variacao_pct": 0.12,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.11,
+      "variacao_pct": -2.36,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T16:30:11.081429+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.72,
+      "variacao_pct": -0.22,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7535.32,
+      "variacao_pct": -0.11,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 16.43,
+      "variacao_pct": -0.42,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T17:00:04.784034+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.7,
+      "variacao_pct": -0.24,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7541.75,
+      "variacao_pct": -0.02,
+      "tendencia": "caindo"
+    },
+    "VIX": {
+      "valor": 16.4,
+      "variacao_pct": -0.61,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T17:30:08.040468+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.58,
+      "variacao_pct": -0.35,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7556.04,
+      "variacao_pct": 0.17,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 16.17,
+      "variacao_pct": -2.0,
+      "tendencia": "caindo"
+    }
+  }
+}
+{
+  "timestamp": "2026-07-15T18:00:07.064875+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.42,
+      "variacao_pct": -0.51,
+   {
+  "timestamp": "2026-07-15T19:00:10.773980+00:00",
+  "fonte": "yfinance",
+  "data": {
+    "DXY": {
+      "valor": 100.44,
+      "variacao_pct": -0.49,
+      "tendencia": "caindo"
+    },
+    "SP500": {
+      "valor": 7556.68,
+      "variacao_pct": 0.17,
+      "tendencia": "subindo"
+    },
+    "VIX": {
+      "valor": 15.76,
+      "variacao_pct": -4.48,
+      "tendencia": "caindo"
+    }
+  }
+}

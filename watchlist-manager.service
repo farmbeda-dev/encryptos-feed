@@ -1,0 +1,15 @@
+[Unit]
+Description=Watchlist/Alarmes Manager (Segundo Cerebro)
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/encryptos
+EnvironmentFile=/opt/encryptos/.env
+ExecStart=/usr/bin/python3 /opt/encryptos/watchlist_manager.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
